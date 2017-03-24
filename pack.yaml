@@ -1,0 +1,15 @@
+---
+ref: clicrud
+name : clicrud
+description : CLICRUD integration for ST2
+keywords :
+  - Brocade
+  - icx
+  - mlx
+  - cli
+  - clicrud
+  - vrouter
+  - vyatta
+version : 0.3.0
+author : davidjohngee
+email : david.gee@ipengineer.net
